@@ -1,5 +1,5 @@
 # DIY-TicTacToe 
-This project is tried to implement a Tic-tac-toe game using Python
+This project tries to implement a Tic-tac-toe game using Python.
 ## Quickstart
 Clone the GitHub repository and run `tictactoe - ver2.py`
 ```
